@@ -1,2 +1,1 @@
-# Hello
-Its my first coding 
+I dont understand anything
